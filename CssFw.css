@@ -34,3 +34,10 @@ div#appContent {
     display: none;
 }
 
+.payment-method .payment-method__logo img{
+   height: 100px;
+}
+.payment-method .payment-method__logo {
+    height: 100px;
+    margin-bottom: 8px;
+}
